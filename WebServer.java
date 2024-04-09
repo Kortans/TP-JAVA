@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 
-public class WebServer extends WebServerApplication {
+public class WebServer {
 
     
     private int portNumber;
